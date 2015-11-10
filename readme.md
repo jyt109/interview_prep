@@ -2,20 +2,24 @@
 
 <br>
 
-There are a few things you need to understand to maximize your chances of landing a data science job. 
+This series of notebooks include:
 
-**This introduction covers:**
+- `1__6_Types_Of_Data_Scientist.ipynb`
+   - What type of data science jobs you can get out there
+   - Apply to jobs that best suit your strength
+   - Have a realistic expectation of what the role entails and requirements for it
+     <br>
+     
+- `2__Introduction_To_Interviews.ipynb`
+  - The process for data science interviews
+  - What does each stage entails
+     
+     <br>
 
-- What kinds of data science jobs are out there in the wild 
-- A general overview of job interviews, including general tips and tricks about how to do well in those interviews
-
-<br>
-
-**More specific interview questions in other notebooks:**
-
-- `Machine_Learning.ipynb`
-- `Statistics.ipynb`
-- `Product_Knowledge.ipynb`
-- `Behavioral_Assessment.ipynb`
-
+- `3__Linear_Logistic_Regression.ipynb`
+  - Part of machine learning / statistics interview questions
+  - All about linear / logistic regression
+   
+- `4__Decision_Tree_Random_Forest.ipynb`
+  - 
 
