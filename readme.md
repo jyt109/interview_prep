@@ -11,7 +11,7 @@
 
 <br>
 
-This series of notebooks include:
+**This series of notebooks include:**
 
 - `1__6_Types_Of_Data_Scientist.ipynb`
   - What type of data science jobs you can get out there
