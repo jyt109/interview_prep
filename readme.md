@@ -46,5 +46,5 @@ This series of notebooks include:
    
   <br>
   
- - `7__Software_Engineering.ipynb`
-   - `Coding` interview questions
+- `7__Software_Engineering.ipynb`
+  - `Coding` interview questions
