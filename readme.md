@@ -2,9 +2,11 @@
 
 <br>
 
-- Read `1__6_Types_Of_Data_Scientist.ipynb` to decide which job(s) suits you
-- Read `2__Introduction_To_Interviews.ipynb` to understand in general what interviews are like
-- The rest of the notebooks contain interview questions are categorized into `Machine Learning`, `Statistics` and `Product`
+**Please follow the instructions below:**
+
+1. Read `1__6_Types_Of_Data_Scientist.ipynb` to decide which job(s) suits you
+2. Read `2__Introduction_To_Interviews.ipynb` to understand in general what interviews are like
+3. The rest of the notebooks contain interview questions are categorized into `Machine Learning`, `Statistics` and `Product`
 
 <br>
 
