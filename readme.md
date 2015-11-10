@@ -26,30 +26,30 @@
      
   <br>
 
-- `3__Linear_Logistic_Regression.ipynb`
+- `Linear_Logistic_Regression.ipynb`
   - `Machine Learning` / `Statistics` interview questions
 
   <br>
 
-- `4__Decision_Tree_Random_Forest.ipynb`
+- `Decision_Tree_Random_Forest.ipynb`
   - `Machine Learning` interview questions
   
   <br>
   
-- `5__Statistics.ipynb`
+- `Statistics.ipynb`
   - `Statistics` interview questions
   
   <br>
   
-- `6__Product_Knowledge.ipynb`
+- `Product_Knowledge.ipynb`
   - `Product` interview questions
    
   <br>
   
-- `7__Software_Engineering.ipynb`
+- `Software_Engineering.ipynb`
   - `Coding` interview questions
   
   <br>
   
-- `8__Big_Data.ipynb`
+- `Big_Data.ipynb`
   - `Coding` interview questions 
