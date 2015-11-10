@@ -48,3 +48,8 @@ This series of notebooks include:
   
 - `7__Software_Engineering.ipynb`
   - `Coding` interview questions
+  
+  <br>
+  
+- `8__Big_Data.ipynb`
+  - `Coding` interview questions 
