@@ -23,7 +23,12 @@
 - [`2__Introduction_To_Interviews.ipynb`](2__Introduction_To_Interviews.ipynb)
   - The process for data science interviews
   - What does each stage entails
-     
+  
+  <br>
+  
+- [`Statistics.ipynb`](Statistics.ipynb)
+  - `Statistics` interview questions
+
   <br>
 
 - [`Linear_Logistic_Regression.ipynb`](Linear_Logistic_Regression.ipynb)
@@ -33,12 +38,7 @@
 
 - [`Decision_Tree_Random_Forest.ipynb`](Decision_Tree_Random_Forest.ipynb)
   - `Machine Learning` interview questions
-  
-  <br>
-  
-- [`Statistics.ipynb`](Statistics.ipynb)
-  - `Statistics` interview questions
-  
+    
   <br>
   
 - [`Product_Knowledge.ipynb`](Product_Knowledge.ipynb)
