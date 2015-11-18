@@ -6,8 +6,8 @@
 
 1. Read [`1__6_Types_Of_Data_Scientist.ipynb`](1__6_Types_Of_Data_Scientist.ipynb) to decide which job(s) suits you
 2. Read [`2__Introduction_To_Interviews.ipynb`](2__Introduction_To_Interviews.ipynb) to understand in general what interviews are like
-3. The rest of the notebooks contain interview questions are categorized into `Machine Learning`, `Statistics` and `Coding`
-4. **This repo will cover most of the common basis, but you will still get asked questions outside of here**
+3. The rest of the notebooks contain interview questions categorized into `Machine Learning`, `Statistics` and `Coding`
+4. **This repo will cover most of the common basics, but you will still get asked questions outside of here**
 
 <br>
 
@@ -16,7 +16,7 @@
 - [`1__6_Types_Of_Data_Scientist.ipynb`](1__6_Types_Of_Data_Scientist.ipynb)
   - What type of data science jobs you can get out there
   - Apply to jobs that best suit your strength
-  - Have a realistic expectation of what the role entails and requirements for it
+  - Have a realistic expectation of what the role entails and the requirements for it
    
   <br>
      
